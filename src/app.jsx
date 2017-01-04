@@ -4,7 +4,7 @@ var ReactDOM = require('react-dom');
 var Hello = React.createClass({
   render: function() {
     return <h1 className="red">
-      Hello!
+      Welcome To Portfolio!
     </h1>
   }
 });
