@@ -15,11 +15,11 @@ var Hello = React.createClass({
                     <span className="icon-bar"></span>
                     <span className="icon-bar"></span>
                 </button>
-                <a class="navbar-brand topnav" href="" target="_blank">Francis Phiri</a>
+                <a className="navbar-brand topnav" href="" target="_blank">Francis Phiri</a>
             </div>
            {/* Collect the nav links, forms, and other content for toggling */}
-            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-                <ul class="nav navbar-nav navbar-right">
+            <div className="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul className="nav navbar-nav navbar-right">
                     <li>
                         <a href="#home">Home</a>
                     </li>
