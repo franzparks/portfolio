@@ -5,15 +5,15 @@ var Hello = React.createClass({
   render: function() {
     return (
         // Navigation
-    <nav class="navbar navbar-default navbar-fixed-top topnav" role="navigation">
-        <div class="container topnav">
+    <nav className="navbar navbar-default navbar-fixed-top topnav" role="navigation">
+        <div className="container topnav">
             {/*Brand and toggle get grouped for better mobile display */}
-            <div class="navbar-header">
+            <div className="navbar-header">
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-                    <span class="sr-only">Toggle navigation</span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
+                    <span className="sr-only">Toggle navigation</span>
+                    <span className="icon-bar"></span>
+                    <span className="icon-bar"></span>
+                    <span className="icon-bar"></span>
                 </button>
                 <a class="navbar-brand topnav" href="" target="_blank">Francis Phiri</a>
             </div>
