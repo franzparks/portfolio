@@ -2,12 +2,14 @@
 import React from 'react';
 var ReactDOM = require('react-dom');
 
-import { Nav } from './components/_nav.jsx';
+//import { Nav} from './components/_nav.jsx';
+var Nav = require('./components/_nav.jsx');
 
 var Hello = React.createClass({
   render: function() {
     return (
         // Navigation
+        <div>
     <nav className="navbar navbar-default navbar-fixed-top topnav" role="navigation">
         <div className="container topnav">
             {/*Brand and toggle get grouped for better mobile display */}
@@ -42,6 +44,7 @@ var Hello = React.createClass({
         {/* /.container */}
     </nav>
     <Nav />
+    </div>
     );
   }
 });
