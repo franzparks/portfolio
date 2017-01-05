@@ -1,6 +1,8 @@
 var React = require('react');
 var ReactDOM = require('react-dom');
 
+var Nav = require('./components/_nav');
+
 var Hello = React.createClass({
   render: function() {
     return (
@@ -38,6 +40,7 @@ var Hello = React.createClass({
         </div>
         {/* /.container */}
     </nav>
+    <Nav />
     );
   }
 });
