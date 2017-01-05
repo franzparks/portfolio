@@ -1,5 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router';
+import { Header } from './Header';
 //import { version } from '../../package.json';
 
 const App = ({ children }) => (
@@ -9,6 +10,7 @@ const App = ({ children }) => (
       <Link to="/about">About</Link>
     
     </header>
+
     <section>
       {children || 'Welcome to Franz Web'}
     </section>
