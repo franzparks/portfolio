@@ -14,17 +14,17 @@ const About = () => (
 		                  <br></br>
 		                    <p className="lead">I'm a <a className="link" target="_blank" 
 		                    href="http://www.freecodecamp.com/franzparks">self taught</a> web developer, based in California,USA.
-		                    <br></br>
-		              		I'm currently part of a software development
-		 					team as an automation software engineer and I am also a contributor at Blitz
-		 					<br></br> 
+		                    
 							My passion is to use technology based solutions, to help solve real world challenges.
-							<br></br>
-							Competences:<br></br>
-							Languages and Frameworks:<br></br>
+							
+							<h3>Competences:</h3>
+								
+							<h4>Languages and Frameworks:</h4>
+
 							Javascript, HTML5, CSS3, Bootstrap3, Angular.js, React.js, Python, Java, Spring Framework.
-							<br></br>
-							Tools & expertise:<br></br>
+
+							Tools & expertise:
+
 							Git, Agile Methodologies.
 							</p>
 		                </div>
