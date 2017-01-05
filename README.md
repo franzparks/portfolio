@@ -5,17 +5,38 @@ This is a portfolio site for my projects
 
 ---
 
-###Running the app###
+## Usage
 
-There are two methods for getting started with this repo.
+[Download React Starterify](https://github.com/Granze/react-starterify/releases/latest)
 
-####Familiar with Git?#####
-Checkout this repo, install dependencies, then start the gulp process with the following:
+__Install the dependencies:__
 
-```
-	> git clone https://github.com/StephenGrider/ReactStarter.git
-	> cd ReactStarter
-	> npm install
-	> gulp
-```
+`npm install`
+
+__Test:__
+
+`npm test`
+
+__Development mode with livereload:__
+
+`npm run watch` or just `npm start`
+
+__When you are done, create a production ready version of the JS bundle:__
+
+`npm run build`
+
+__Deploy on Github pages with one command:__
+
+`npm run deploy`
+
+## What's here
+
+- React Router integration
+- CSS processing via [PostCSS](https://github.com/postcss/postcss)
+  - cssnano for minification
+  - nested
+  - extend
+  - vars
+  - autoprefixer
+- gulpifle written in ES6 (ES2015)
 
