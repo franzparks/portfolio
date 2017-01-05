@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router';
-// import { Header } from './Header';
+import Header  from './Header';
 // import { version } from '../../package.json';
 
 const App = ({ children }) => (
@@ -9,7 +9,7 @@ const App = ({ children }) => (
       <h1>Welcome To Franz Web Studio!</h1>
       <Link to="/about">About</Link>
     </header>
-
+    <Header />
     <section>
       { children || 'Welcome to Franz Web' }
     </section>
