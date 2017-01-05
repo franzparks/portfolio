@@ -29,9 +29,9 @@ const About = () => (
 							</p>
 		                </div>
 		            	<div className="col-lg-5 col-lg-offset-2 col-sm-6 collapse navbar-collapse">
-		                {/* <img className="img-circle img-responsive" 
-		                    src="https://lh3.googleusercontent.com/-z1lLDOyI7rA/UzJep0xrrDE/AAAAAAAACjg/dKKHx-gJVhg/w326-h220-p/ProfilePhotos" 
-		                    alt="Francis' image"> */}
+		                <img className="img-circle img-responsive" 
+		                    src="../images/FranzImage.jpg" 
+		                    alt="Francis image"></img>
 		        		</div>
 		        	</div>
 		    	</div>
