@@ -23,7 +23,7 @@ const About = () => (
 
 							Javascript, HTML5, CSS3, Bootstrap3, Angular.js, React.js, Python, Java, Spring Framework.
 
-							Tools & expertise:
+							<h4>Tools & expertise:</h4>
 
 							Git, Agile Methodologies.
 							</p>
