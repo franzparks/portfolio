@@ -47,6 +47,9 @@ function bundle() {
     .bundle()
     .on('error', notify)
     .pipe(source('main.js'))
+    .pipe(babel({
+      presets: ['es2015']
+      }))
     .pipe(gulp.dest('./'))
 }
 bundler.on('update', bundle);
