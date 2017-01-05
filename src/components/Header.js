@@ -2,11 +2,12 @@ import React from 'react';
 
 const Header = () => (
   <div>
-     <nav className="navbar navbar-default navbar-fixed-top topnav" role="navigation">
+    <nav className="navbar navbar-default navbar-fixed-top topnav" role="navigation">
         <div className="container topnav">
-            {/*Brand and toggle get grouped for better mobile display */}
+            {/* Brand and toggle get grouped for better mobile display */}
             <div className="navbar-header">
-                <button  className="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                <button  className="navbar-toggle" data-toggle="collapse" 
+                	data-target="#bs-example-navbar-collapse-1">
                     <span className="sr-only">Toggle navigation</span>
                     <span className="icon-bar"></span>
                     <span className="icon-bar"></span>
