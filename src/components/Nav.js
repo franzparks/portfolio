@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router';
 
-const Header = () => (
+const Nav = () => (
   <div>
     <nav className="navbar navbar-default navbar-fixed-top topnav" role="navigation">
         <div className="container topnav">
@@ -41,5 +41,5 @@ const Header = () => (
   </div>
 );
 
-export default Header;
+export default Nav;
 
