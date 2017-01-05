@@ -1,7 +1,8 @@
-var React = require('react');
+//var React = require('react');
+import React from 'react';
 var ReactDOM = require('react-dom');
 
-var Nav = require('./components/_nav');
+import { Nav } from './components/_nav.jsx';
 
 var Hello = React.createClass({
   render: function() {
