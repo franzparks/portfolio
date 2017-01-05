@@ -16,7 +16,7 @@ const About = () => (
 		                    href="http://www.freecodecamp.com/franzparks">self taught</a> web developer, based in California,USA.
 		                    <br></br>
 		              		I'm currently part of a software development
-		 					team as an automation software engineer and I am also a regular contributor at Blitz under Udacity
+		 					team as an automation software engineer and I am also a contributor at Blitz
 		 					<br></br> 
 							My passion is to use technology based solutions, to help solve real world challenges.
 							<br></br>
