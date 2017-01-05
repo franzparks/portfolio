@@ -6,7 +6,7 @@ const App = ({ children }) => (
   <div>
     <Header />
     <section>
-      { children || 'Welcome to Franz Web' }
+      { children || 'Welcome to Franz Web Studio...More to come!' }
     </section>
   </div>
 );
