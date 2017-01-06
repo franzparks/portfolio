@@ -1,5 +1,5 @@
 import React from 'react';
-import { Link } from 'react-router';
+// import { Link } from 'react-router';
 
 const Nav = () => (
   <div>
@@ -23,7 +23,8 @@ const Nav = () => (
                         <a href="#home">Home</a>
                     </li>
                     <li>
-                        <Link to="/about">About</Link>
+                        {/* <Link to="/about">About</Link> */}
+                        <a href="#about">About</a>
                     </li>
                     <li>
                         <a href="#portfolio">Portfolio</a>
