@@ -21,7 +21,8 @@ const Portfolio = () => (
                                 <i className="fa fa-fire fa-3x"></i>
                             </div>
                         </div>
-                        <img src="https://36.media.tumblr.com/a4a06b925ad2ad936ba2ce6c3343c444/tumblr_nwh4epTtMV1ud7rr3o1_1280.jpg" className="img-responsive" alt="">
+                        <img src="https://36.media.tumblr.com/a4a06b925ad2ad936ba2ce6c3343c444/tumblr_nwh4epTtMV1ud7rr3o1_1280.jpg" 
+                        className="img-responsive" alt=""></img>
                     </a>
                     <div className="portfolio-caption">
                         <h4>Twitch.tv API project</h4>
@@ -38,7 +39,8 @@ const Portfolio = () => (
                                 <i className="fa fa-fire fa-3x"></i>
                             </div>
                         </div>
-                        <img src="https://40.media.tumblr.com/a73e79ce9844761d7cdc93d202b5cea1/tumblr_nwh4iomduD1ud7rr3o1_1280.jpg" className="img-responsive" alt="">
+                        <img src="https://40.media.tumblr.com/a73e79ce9844761d7cdc93d202b5cea1/tumblr_nwh4iomduD1ud7rr3o1_1280.jpg" 
+                        className="img-responsive" alt=""></img>
                     </a>
                     <div className="portfolio-caption">
                         <h4>Wikipedia Viewer</h4>
@@ -55,7 +57,8 @@ const Portfolio = () => (
                                 <i className="fa fa-fire fa-3x"></i>
                             </div>
                         </div>
-                        <img src="https://41.media.tumblr.com/5abea52ea28e9ea20ab995ebd23299a1/tumblr_nwh4iomduD1ud7rr3o2_1280.jpg" className="img-responsive" alt="">
+                        <img src="https://41.media.tumblr.com/5abea52ea28e9ea20ab995ebd23299a1/tumblr_nwh4iomduD1ud7rr3o2_1280.jpg"
+                         className="img-responsive" alt=""></img>
                     </a>
                     <div className="portfolio-caption">
                         <h4>Javascript Calculator</h4>
@@ -72,7 +75,8 @@ const Portfolio = () => (
                                 <i className="fa fa-fire fa-3x"></i>
                             </div>
                         </div>
-                        <img src="https://40.media.tumblr.com/7512ad23b7e68304a65182988b9c804a/tumblr_nwy76xfEXi1ud7rr3o1_1280.png" className="img-responsive" alt="">
+                        <img src="https://40.media.tumblr.com/7512ad23b7e68304a65182988b9c804a/tumblr_nwy76xfEXi1ud7rr3o1_1280.png" 
+                        className="img-responsive" alt=""></img>
                     </a>
                     <div className="portfolio-caption">
                         <h4>Pomodoro Timer Zipline</h4>
@@ -89,7 +93,8 @@ const Portfolio = () => (
                                 <i className="fa fa-fire fa-3x"></i>
                             </div>
                         </div>
-                        <img src="https://41.media.tumblr.com/59b50efb8f7435fef9f87fd871b90d7a/tumblr_nxhm4k1jI81ud7rr3o1_1280.jpg" className="img-responsive" alt="">
+                        <img src="https://41.media.tumblr.com/59b50efb8f7435fef9f87fd871b90d7a/tumblr_nxhm4k1jI81ud7rr3o1_1280.jpg" 
+                        className="img-responsive" alt=""></img>
                     </a>
                     <div className="portfolio-caption">
                         <h4>Weather App</h4>
@@ -106,7 +111,8 @@ const Portfolio = () => (
                                 <i className="fa fa-fire fa-3x"></i>
                             </div>
                         </div>
-                        <img src="https://36.media.tumblr.com/030b4966650a0d1dac0bbcca6fe572e8/tumblr_nxhm7qz6Y91ud7rr3o1_1280.jpg" className="img-responsive" alt="">
+                        <img src="https://36.media.tumblr.com/030b4966650a0d1dac0bbcca6fe572e8/tumblr_nxhm7qz6Y91ud7rr3o1_1280.jpg" 
+                        className="img-responsive" alt=""></img>
                     </a>
                     <div className="portfolio-caption">
                         <h4>Tic Tac Toe Game</h4>
@@ -123,7 +129,7 @@ const Portfolio = () => (
                                 <i className="fa fa-fire fa-3x"></i>
                             </div>
                         </div>
-                        <img src="http://www.geekalerts.com/u/classNameic-Simon-Game.jpg" className="img-responsive" alt="">
+                        <img src="http://www.geekalerts.com/u/classNameic-Simon-Game.jpg" className="img-responsive" alt=""></img>
                     </a>
                     <div className="portfolio-caption">
                         <h4>Simon Game</h4>
