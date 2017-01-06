@@ -4,6 +4,7 @@ import Header  from './Header';
 import About  from './About';
 import Portfolio  from './Portfolio';
 import Contact  from './Contact';
+import Footer  from './Footer';
 // import { version } from '../../package.json';
 
 const App = ({ children }) => (
@@ -13,9 +14,12 @@ const App = ({ children }) => (
     <About />
     <Portfolio />
     <Contact />
-    <section>
+    <Footer />
+    {/* <section>
       { children || 'Welcome to Franz Web Studio...More to come!' }
     </section>
+    */}
+    
   </div>
 );
 
