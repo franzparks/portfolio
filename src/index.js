@@ -10,7 +10,7 @@ window.React = React;
 render(
   (<Router history={hashHistory}>
     <Route path="/" component={App}>
-      <Route path="/about" component={About} />
+       {/* <Route path="/about" component={About} /> */}
     </Route>
   </Router>), document.getElementById('content')
 );
