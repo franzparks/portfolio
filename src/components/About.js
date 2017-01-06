@@ -30,7 +30,7 @@ const About = () => (
 		                </div>
 		            	<div className="col-lg-5 col-lg-offset-2 col-sm-6 collapse navbar-collapse">
 		                <img className="img-circle img-responsive" 
-		                    src="src/images/FranzImage.jpg" 
+		                    src="images/FranzImage.jpg" 
 		                    alt="Francis image"></img>
 		        		</div>
 		        	</div>
