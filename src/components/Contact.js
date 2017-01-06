@@ -1,7 +1,7 @@
-import { React } from 'react';
+import React from 'react';
 
 const Contact = () => (
-
+    <div>
 	<a  name="contact"></a>
     <div className="banner">
       <div className="bg-overlay4">
@@ -10,7 +10,7 @@ const Contact = () => (
                 <div className="col-lg-6">
                   <h2 className="connect">Connect with Franz Web Dev Studio: franzparks@gmail.com</h2>
                 </div>
-              </br>
+              <br></br>
       
                 <div className="col-lg-6">
                     <ul className="list-inline banner-social-buttons">
@@ -37,6 +37,8 @@ const Contact = () => (
    
     </div>
 </div>
+</div>
+
 </div>
 
 );

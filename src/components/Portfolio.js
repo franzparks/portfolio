@@ -5,7 +5,7 @@ const Portfolio = () => (
 	<div>
 		<a  name="portfolio"></a>
 	    <section id="portfolio" className="bg-light-gray bounds">
-	        <div classNameName="container">
+	        <div className="container">
 	            <div className="row">
 	                <div className="col-lg-12 text-center">
 	                    <h2 className="section-heading">Awesomeness Portfolio.</h2>
