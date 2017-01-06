@@ -9,7 +9,8 @@ const Portfolio = () => (
 	            <div className="row">
 	                <div className="col-lg-12 text-center">
 	                    <h2 className="section-heading">Awesomeness Portfolio.</h2>
-	                    <h3 id="below-section" className="section-subheading text-muted">Below you'll find some of my recent work.</h3>
+	                    <h3 id="below-section" className="section-subheading text-muted">Below you'll find some of my recent work. 
+	                    (Not so recent - will update asap )</h3>
 	                </div>
 	            </div>
 	          {/*  Portfolio img1  */}
